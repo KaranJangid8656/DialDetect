@@ -34,8 +34,6 @@ To set up the project, follow these steps:
    ```
 ## Dependencies
 
-
-
 - **Flask**: A micro web framework for Python.
 - **pandas**: A powerful data manipulation and analysis library.
 - **regex**: A package for regular expression operations.
