@@ -32,6 +32,13 @@ To set up the project, follow these steps:
    ```
    pip install -r requirements.txt
    ```
+## Dependencies
+
+
+
+- **Flask**: A micro web framework for Python.
+- **pandas**: A powerful data manipulation and analysis library.
+- **regex**: A package for regular expression operations.
 
 ## Usage
 
