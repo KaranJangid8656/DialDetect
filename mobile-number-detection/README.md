@@ -38,21 +38,12 @@ To set up the project, follow these steps:
 - **pandas**: A powerful data manipulation and analysis library.
 - **regex**: A package for regular expression operations.
 
-## Usage
-
-To run the application, execute the following command:
-
-```
-python src/main.py
-```
 
 ## Example
 
 You can input mobile numbers in various formats, and the application will validate and format them accordingly. 
 
-## Contributing
 
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ## License
 
