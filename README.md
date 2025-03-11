@@ -41,7 +41,7 @@ To set up the project, follow these steps:
 
 ## Example
 
-You can input mobile numbers in various formats, and the application will validate and format them accordingly. 
+You can input mobile numbers in various formats, and the application will validate and format them accordingly.  
 
 
 
