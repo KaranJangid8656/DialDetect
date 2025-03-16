@@ -6,7 +6,7 @@ This project is designed to detect and validate mobile numbers from input data u
 
 ```
 DialDetect
-├── src
+├── src 
 │   ├── main.py
 │   └── utils
 │       └── __init__.py
