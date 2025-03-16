@@ -1,7 +1,7 @@
 # DialDetect
  
 This project is designed to detect and validate mobile numbers from input data using Python. It includes utility functions for formatting and checking the validity of mobile numbers based on predefined patterns.
-
+ 
 ## Project Structure 
 
 ```
